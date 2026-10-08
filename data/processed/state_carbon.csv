@@ -1,0 +1,721 @@
+country,subnational1,Year,CO2_Emissions_Mg
+India,Andaman and Nicobar,2001,978135.0
+India,Andhra Pradesh,2001,351131.0
+India,Arunachal Pradesh,2001,4382807.0
+India,Assam,2001,3038907.0
+India,Bihar,2001,60415.0
+India,Chandigarh,2001,43.0
+India,Chhattisgarh,2001,1283132.0
+India,Dadra and Nagar Haveli,2001,0.0
+India,Daman and Diu,2001,0.0
+India,Goa,2001,3532.0
+India,Gujarat,2001,4568.0
+India,Haryana,2001,8977.0
+India,Himachal Pradesh,2001,167458.0
+India,Jammu and Kashmir,2001,45744.0
+India,Jharkhand,2001,347500.0
+India,Karnataka,2001,998222.0
+India,Kerala,2001,379556.0
+India,Lakshadweep,2001,0.0
+India,Madhya Pradesh,2001,277410.0
+India,Maharashtra,2001,443970.0
+India,Manipur,2001,2028973.0
+India,Meghalaya,2001,2413930.0
+India,Mizoram,2001,2311016.0
+India,NCT of Delhi,2001,20.0
+India,Nagaland,2001,6205865.0
+India,Odisha,2001,1411949.0
+India,Puducherry,2001,647.0
+India,Punjab,2001,31989.0
+India,Rajasthan,2001,6356.0
+India,Sikkim,2001,16436.0
+India,Tamil Nadu,2001,1120887.0
+India,Telangana,2001,372091.0
+India,Tripura,2001,1637150.0
+India,Uttar Pradesh,2001,225614.0
+India,Uttarakhand,2001,161485.0
+India,West Bengal,2001,191331.0
+India,Andaman and Nicobar,2002,1349046.0
+India,Andhra Pradesh,2002,260576.0
+India,Arunachal Pradesh,2002,3612264.0
+India,Assam,2002,3585329.0
+India,Bihar,2002,18324.0
+India,Chandigarh,2002,0.0
+India,Chhattisgarh,2002,888299.0
+India,Dadra and Nagar Haveli,2002,0.0
+India,Daman and Diu,2002,0.0
+India,Goa,2002,2328.0
+India,Gujarat,2002,983.0
+India,Haryana,2002,5303.0
+India,Himachal Pradesh,2002,192660.0
+India,Jammu and Kashmir,2002,213861.0
+India,Jharkhand,2002,37607.0
+India,Karnataka,2002,537176.0
+India,Kerala,2002,517816.0
+India,Lakshadweep,2002,0.0
+India,Madhya Pradesh,2002,163788.0
+India,Maharashtra,2002,289382.0
+India,Manipur,2002,2190872.0
+India,Meghalaya,2002,1837178.0
+India,Mizoram,2002,2161980.0
+India,NCT of Delhi,2002,0.0
+India,Nagaland,2002,3810078.0
+India,Odisha,2002,1790992.0
+India,Puducherry,2002,550.0
+India,Punjab,2002,27878.0
+India,Rajasthan,2002,6543.0
+India,Sikkim,2002,4870.0
+India,Tamil Nadu,2002,443773.0
+India,Telangana,2002,307592.0
+India,Tripura,2002,975032.0
+India,Uttar Pradesh,2002,61133.0
+India,Uttarakhand,2002,282617.0
+India,West Bengal,2002,165588.0
+India,Andaman and Nicobar,2003,1162755.0
+India,Andhra Pradesh,2003,680701.0
+India,Arunachal Pradesh,2003,3145202.0
+India,Assam,2003,2514321.0
+India,Bihar,2003,14946.0
+India,Chandigarh,2003,0.0
+India,Chhattisgarh,2003,556501.0
+India,Dadra and Nagar Haveli,2003,0.0
+India,Daman and Diu,2003,0.0
+India,Goa,2003,5122.0
+India,Gujarat,2003,980.0
+India,Haryana,2003,5268.0
+India,Himachal Pradesh,2003,41663.0
+India,Jammu and Kashmir,2003,69248.0
+India,Jharkhand,2003,18237.0
+India,Karnataka,2003,650370.0
+India,Kerala,2003,908725.0
+India,Lakshadweep,2003,0.0
+India,Madhya Pradesh,2003,145213.0
+India,Maharashtra,2003,207023.0
+India,Manipur,2003,2298580.0
+India,Meghalaya,2003,1147868.0
+India,Mizoram,2003,1840389.0
+India,NCT of Delhi,2003,53.0
+India,Nagaland,2003,3530383.0
+India,Odisha,2003,2509477.0
+India,Puducherry,2003,405.0
+India,Punjab,2003,21599.0
+India,Rajasthan,2003,6817.0
+India,Sikkim,2003,6640.0
+India,Tamil Nadu,2003,247063.0
+India,Telangana,2003,414558.0
+India,Tripura,2003,595134.0
+India,Uttar Pradesh,2003,42398.0
+India,Uttarakhand,2003,127115.0
+India,West Bengal,2003,82772.0
+India,Andaman and Nicobar,2004,116391.0
+India,Andhra Pradesh,2004,557532.0
+India,Arunachal Pradesh,2004,6469680.0
+India,Assam,2004,5984689.0
+India,Bihar,2004,27510.0
+India,Chandigarh,2004,496.0
+India,Chhattisgarh,2004,1013146.0
+India,Dadra and Nagar Haveli,2004,103.0
+India,Daman and Diu,2004,0.0
+India,Goa,2004,6890.0
+India,Gujarat,2004,1961.0
+India,Haryana,2004,19229.0
+India,Himachal Pradesh,2004,383905.0
+India,Jammu and Kashmir,2004,424821.0
+India,Jharkhand,2004,82620.0
+India,Karnataka,2004,723743.0
+India,Kerala,2004,809758.0
+India,Lakshadweep,2004,0.0
+India,Madhya Pradesh,2004,220665.0
+India,Maharashtra,2004,615428.0
+India,Manipur,2004,2547397.0
+India,Meghalaya,2004,3010569.0
+India,Mizoram,2004,2304927.0
+India,NCT of Delhi,2004,216.0
+India,Nagaland,2004,4960682.0
+India,Odisha,2004,2002621.0
+India,Puducherry,2004,919.0
+India,Punjab,2004,34166.0
+India,Rajasthan,2004,11594.0
+India,Sikkim,2004,31844.0
+India,Tamil Nadu,2004,615322.0
+India,Telangana,2004,424268.0
+India,Tripura,2004,1423782.0
+India,Uttar Pradesh,2004,102000.0
+India,Uttarakhand,2004,404244.0
+India,West Bengal,2004,237164.0
+India,Andaman and Nicobar,2005,2246344.0
+India,Andhra Pradesh,2005,534995.0
+India,Arunachal Pradesh,2005,4724700.0
+India,Assam,2005,3773620.0
+India,Bihar,2005,48136.0
+India,Chandigarh,2005,400.0
+India,Chhattisgarh,2005,1082116.0
+India,Dadra and Nagar Haveli,2005,0.0
+India,Daman and Diu,2005,0.0
+India,Goa,2005,19649.0
+India,Gujarat,2005,2151.0
+India,Haryana,2005,8134.0
+India,Himachal Pradesh,2005,179014.0
+India,Jammu and Kashmir,2005,83852.0
+India,Jharkhand,2005,137224.0
+India,Karnataka,2005,1187880.0
+India,Kerala,2005,764186.0
+India,Lakshadweep,2005,0.0
+India,Madhya Pradesh,2005,304025.0
+India,Maharashtra,2005,378641.0
+India,Manipur,2005,2348931.0
+India,Meghalaya,2005,2205843.0
+India,Mizoram,2005,2355608.0
+India,NCT of Delhi,2005,232.0
+India,Nagaland,2005,4598647.0
+India,Odisha,2005,1641017.0
+India,Puducherry,2005,2144.0
+India,Punjab,2005,37714.0
+India,Rajasthan,2005,8874.0
+India,Sikkim,2005,15138.0
+India,Tamil Nadu,2005,446065.0
+India,Telangana,2005,465223.0
+India,Tripura,2005,751153.0
+India,Uttar Pradesh,2005,102687.0
+India,Uttarakhand,2005,324783.0
+India,West Bengal,2005,186030.0
+India,Andaman and Nicobar,2006,446467.0
+India,Andhra Pradesh,2006,600163.0
+India,Arunachal Pradesh,2006,4991094.0
+India,Assam,2006,4112701.0
+India,Bihar,2006,31320.0
+India,Chandigarh,2006,1565.0
+India,Chhattisgarh,2006,1078422.0
+India,Dadra and Nagar Haveli,2006,33.0
+India,Daman and Diu,2006,0.0
+India,Goa,2006,14756.0
+India,Gujarat,2006,1634.0
+India,Haryana,2006,15137.0
+India,Himachal Pradesh,2006,103908.0
+India,Jammu and Kashmir,2006,248977.0
+India,Jharkhand,2006,241759.0
+India,Karnataka,2006,590945.0
+India,Kerala,2006,987027.0
+India,Lakshadweep,2006,0.0
+India,Madhya Pradesh,2006,358734.0
+India,Maharashtra,2006,336077.0
+India,Manipur,2006,2641006.0
+India,Meghalaya,2006,2744855.0
+India,Mizoram,2006,1798606.0
+India,NCT of Delhi,2006,340.0
+India,Nagaland,2006,3504446.0
+India,Odisha,2006,1889293.0
+India,Puducherry,2006,873.0
+India,Punjab,2006,28743.0
+India,Rajasthan,2006,5514.0
+India,Sikkim,2006,6572.0
+India,Tamil Nadu,2006,822251.0
+India,Telangana,2006,649291.0
+India,Tripura,2006,3131866.0
+India,Uttar Pradesh,2006,162306.0
+India,Uttarakhand,2006,511847.0
+India,West Bengal,2006,333821.0
+India,Andaman and Nicobar,2007,427216.0
+India,Andhra Pradesh,2007,758876.0
+India,Arunachal Pradesh,2007,4981517.0
+India,Assam,2007,5590429.0
+India,Bihar,2007,22020.0
+India,Chandigarh,2007,1084.0
+India,Chhattisgarh,2007,971318.0
+India,Dadra and Nagar Haveli,2007,0.0
+India,Daman and Diu,2007,0.0
+India,Goa,2007,28031.0
+India,Gujarat,2007,3237.0
+India,Haryana,2007,15080.0
+India,Himachal Pradesh,2007,183107.0
+India,Jammu and Kashmir,2007,98628.0
+India,Jharkhand,2007,110638.0
+India,Karnataka,2007,2197651.0
+India,Kerala,2007,2295839.0
+India,Lakshadweep,2007,0.0
+India,Madhya Pradesh,2007,230606.0
+India,Maharashtra,2007,368840.0
+India,Manipur,2007,2067290.0
+India,Meghalaya,2007,3557132.0
+India,Mizoram,2007,793788.0
+India,NCT of Delhi,2007,857.0
+India,Nagaland,2007,2459444.0
+India,Odisha,2007,2597146.0
+India,Puducherry,2007,6857.0
+India,Punjab,2007,31701.0
+India,Rajasthan,2007,12487.0
+India,Sikkim,2007,53947.0
+India,Tamil Nadu,2007,842440.0
+India,Telangana,2007,811511.0
+India,Tripura,2007,2897385.0
+India,Uttar Pradesh,2007,152759.0
+India,Uttarakhand,2007,475124.0
+India,West Bengal,2007,675119.0
+India,Andaman and Nicobar,2008,858774.0
+India,Andhra Pradesh,2008,1245969.0
+India,Arunachal Pradesh,2008,5810514.0
+India,Assam,2008,7295599.0
+India,Bihar,2008,40416.0
+India,Chandigarh,2008,571.0
+India,Chhattisgarh,2008,889078.0
+India,Dadra and Nagar Haveli,2008,0.0
+India,Daman and Diu,2008,0.0
+India,Goa,2008,36066.0
+India,Gujarat,2008,8818.0
+India,Haryana,2008,9273.0
+India,Himachal Pradesh,2008,133604.0
+India,Jammu and Kashmir,2008,134249.0
+India,Jharkhand,2008,149684.0
+India,Karnataka,2008,1279600.0
+India,Kerala,2008,1637235.0
+India,Lakshadweep,2008,0.0
+India,Madhya Pradesh,2008,248299.0
+India,Maharashtra,2008,409907.0
+India,Manipur,2008,3128671.0
+India,Meghalaya,2008,3945291.0
+India,Mizoram,2008,1890496.0
+India,NCT of Delhi,2008,912.0
+India,Nagaland,2008,3388430.0
+India,Odisha,2008,2644299.0
+India,Puducherry,2008,7855.0
+India,Punjab,2008,25532.0
+India,Rajasthan,2008,12773.0
+India,Sikkim,2008,70193.0
+India,Tamil Nadu,2008,605748.0
+India,Telangana,2008,1512072.0
+India,Tripura,2008,2653273.0
+India,Uttar Pradesh,2008,99937.0
+India,Uttarakhand,2008,813991.0
+India,West Bengal,2008,634438.0
+India,Andaman and Nicobar,2009,508877.0
+India,Andhra Pradesh,2009,1152210.0
+India,Arunachal Pradesh,2009,4590477.0
+India,Assam,2009,7272623.0
+India,Bihar,2009,105393.0
+India,Chandigarh,2009,210.0
+India,Chhattisgarh,2009,1005021.0
+India,Dadra and Nagar Haveli,2009,0.0
+India,Daman and Diu,2009,0.0
+India,Goa,2009,32351.0
+India,Gujarat,2009,3839.0
+India,Haryana,2009,21048.0
+India,Himachal Pradesh,2009,231168.0
+India,Jammu and Kashmir,2009,122146.0
+India,Jharkhand,2009,435104.0
+India,Karnataka,2009,1248499.0
+India,Kerala,2009,559826.0
+India,Lakshadweep,2009,0.0
+India,Madhya Pradesh,2009,230252.0
+India,Maharashtra,2009,698520.0
+India,Manipur,2009,3019379.0
+India,Meghalaya,2009,2769907.0
+India,Mizoram,2009,2111541.0
+India,NCT of Delhi,2009,391.0
+India,Nagaland,2009,3435833.0
+India,Odisha,2009,2239108.0
+India,Puducherry,2009,3955.0
+India,Punjab,2009,28123.0
+India,Rajasthan,2009,12093.0
+India,Sikkim,2009,80032.0
+India,Tamil Nadu,2009,200342.0
+India,Telangana,2009,1909825.0
+India,Tripura,2009,2489075.0
+India,Uttar Pradesh,2009,143405.0
+India,Uttarakhand,2009,508796.0
+India,West Bengal,2009,386221.0
+India,Andaman and Nicobar,2010,462085.0
+India,Andhra Pradesh,2010,437640.0
+India,Arunachal Pradesh,2010,2998896.0
+India,Assam,2010,4788187.0
+India,Bihar,2010,49976.0
+India,Chandigarh,2010,69.0
+India,Chhattisgarh,2010,622843.0
+India,Dadra and Nagar Haveli,2010,0.0
+India,Daman and Diu,2010,0.0
+India,Goa,2010,2287.0
+India,Gujarat,2010,1910.0
+India,Haryana,2010,15191.0
+India,Himachal Pradesh,2010,113650.0
+India,Jammu and Kashmir,2010,137251.0
+India,Jharkhand,2010,170643.0
+India,Karnataka,2010,514994.0
+India,Kerala,2010,104493.0
+India,Lakshadweep,2010,0.0
+India,Madhya Pradesh,2010,93105.0
+India,Maharashtra,2010,182125.0
+India,Manipur,2010,2121849.0
+India,Meghalaya,2010,3559758.0
+India,Mizoram,2010,1456003.0
+India,NCT of Delhi,2010,365.0
+India,Nagaland,2010,2328746.0
+India,Odisha,2010,1101110.0
+India,Puducherry,2010,992.0
+India,Punjab,2010,30006.0
+India,Rajasthan,2010,3020.0
+India,Sikkim,2010,45827.0
+India,Tamil Nadu,2010,40919.0
+India,Telangana,2010,403778.0
+India,Tripura,2010,1686201.0
+India,Uttar Pradesh,2010,94378.0
+India,Uttarakhand,2010,362215.0
+India,West Bengal,2010,828852.0
+India,Andaman and Nicobar,2011,61072.0
+India,Andhra Pradesh,2011,1488921.0
+India,Arunachal Pradesh,2011,6324220.0
+India,Assam,2011,6347171.0
+India,Bihar,2011,31268.0
+India,Chandigarh,2011,144.0
+India,Chhattisgarh,2011,3319197.0
+India,Dadra and Nagar Haveli,2011,0.0
+India,Daman and Diu,2011,32.0
+India,Goa,2011,59042.0
+India,Gujarat,2011,4238.0
+India,Haryana,2011,6405.0
+India,Himachal Pradesh,2011,26501.0
+India,Jammu and Kashmir,2011,37283.0
+India,Jharkhand,2011,88770.0
+India,Karnataka,2011,946812.0
+India,Kerala,2011,2669268.0
+India,Lakshadweep,2011,0.0
+India,Madhya Pradesh,2011,401895.0
+India,Maharashtra,2011,914655.0
+India,Manipur,2011,3124268.0
+India,Meghalaya,2011,3029217.0
+India,Mizoram,2011,1667020.0
+India,NCT of Delhi,2011,58.0
+India,Nagaland,2011,3391361.0
+India,Odisha,2011,2580982.0
+India,Puducherry,2011,2603.0
+India,Punjab,2011,14482.0
+India,Rajasthan,2011,7143.0
+India,Sikkim,2011,156187.0
+India,Tamil Nadu,2011,583604.0
+India,Telangana,2011,2409099.0
+India,Tripura,2011,1276161.0
+India,Uttar Pradesh,2011,215720.0
+India,Uttarakhand,2011,428239.0
+India,West Bengal,2011,399305.0
+India,Andaman and Nicobar,2012,327482.0
+India,Andhra Pradesh,2012,610914.0
+India,Arunachal Pradesh,2012,7277936.0
+India,Assam,2012,7470159.0
+India,Bihar,2012,47434.0
+India,Chandigarh,2012,82.0
+India,Chhattisgarh,2012,1592329.0
+India,Dadra and Nagar Haveli,2012,0.0
+India,Daman and Diu,2012,0.0
+India,Goa,2012,18417.0
+India,Gujarat,2012,7053.0
+India,Haryana,2012,19390.0
+India,Himachal Pradesh,2012,372912.0
+India,Jammu and Kashmir,2012,215117.0
+India,Jharkhand,2012,148101.0
+India,Karnataka,2012,1402318.0
+India,Kerala,2012,2056412.0
+India,Lakshadweep,2012,0.0
+India,Madhya Pradesh,2012,176803.0
+India,Maharashtra,2012,541967.0
+India,Manipur,2012,4361022.0
+India,Meghalaya,2012,2983245.0
+India,Mizoram,2012,3286200.0
+India,NCT of Delhi,2012,539.0
+India,Nagaland,2012,5457396.0
+India,Odisha,2012,1679316.0
+India,Puducherry,2012,2085.0
+India,Punjab,2012,47212.0
+India,Rajasthan,2012,9211.0
+India,Sikkim,2012,46066.0
+India,Tamil Nadu,2012,733656.0
+India,Telangana,2012,1944026.0
+India,Tripura,2012,1088603.0
+India,Uttar Pradesh,2012,198381.0
+India,Uttarakhand,2012,778675.0
+India,West Bengal,2012,519785.0
+India,Andaman and Nicobar,2013,311364.0
+India,Andhra Pradesh,2013,480329.0
+India,Arunachal Pradesh,2013,4830380.0
+India,Assam,2013,3554586.0
+India,Bihar,2013,5815.0
+India,Chandigarh,2013,0.0
+India,Chhattisgarh,2013,681950.0
+India,Dadra and Nagar Haveli,2013,0.0
+India,Daman and Diu,2013,0.0
+India,Goa,2013,8906.0
+India,Gujarat,2013,1846.0
+India,Haryana,2013,957.0
+India,Himachal Pradesh,2013,29880.0
+India,Jammu and Kashmir,2013,12169.0
+India,Jharkhand,2013,54161.0
+India,Karnataka,2013,1112570.0
+India,Kerala,2013,1566673.0
+India,Lakshadweep,2013,0.0
+India,Madhya Pradesh,2013,171840.0
+India,Maharashtra,2013,190967.0
+India,Manipur,2013,6085506.0
+India,Meghalaya,2013,4109080.0
+India,Mizoram,2013,4671432.0
+India,NCT of Delhi,2013,0.0
+India,Nagaland,2013,5751126.0
+India,Odisha,2013,2097950.0
+India,Puducherry,2013,2291.0
+India,Punjab,2013,7356.0
+India,Rajasthan,2013,0.0
+India,Sikkim,2013,10204.0
+India,Tamil Nadu,2013,289433.0
+India,Telangana,2013,339275.0
+India,Tripura,2013,1302790.0
+India,Uttar Pradesh,2013,29283.0
+India,Uttarakhand,2013,257020.0
+India,West Bengal,2013,136784.0
+India,Andaman and Nicobar,2014,774365.0
+India,Andhra Pradesh,2014,837673.0
+India,Arunachal Pradesh,2014,6760889.0
+India,Assam,2014,9035265.0
+India,Bihar,2014,4600.0
+India,Chandigarh,2014,0.0
+India,Chhattisgarh,2014,782444.0
+India,Dadra and Nagar Haveli,2014,0.0
+India,Daman and Diu,2014,0.0
+India,Goa,2014,11945.0
+India,Gujarat,2014,2549.0
+India,Haryana,2014,899.0
+India,Himachal Pradesh,2014,25456.0
+India,Jammu and Kashmir,2014,18010.0
+India,Jharkhand,2014,60563.0
+India,Karnataka,2014,1171723.0
+India,Kerala,2014,2177658.0
+India,Lakshadweep,2014,0.0
+India,Madhya Pradesh,2014,200741.0
+India,Maharashtra,2014,368296.0
+India,Manipur,2014,7893445.0
+India,Meghalaya,2014,9073774.0
+India,Mizoram,2014,8477024.0
+India,NCT of Delhi,2014,0.0
+India,Nagaland,2014,10149415.0
+India,Odisha,2014,3115949.0
+India,Puducherry,2014,2067.0
+India,Punjab,2014,11507.0
+India,Rajasthan,2014,22.0
+India,Sikkim,2014,10285.0
+India,Tamil Nadu,2014,457527.0
+India,Telangana,2014,894396.0
+India,Tripura,2014,2685436.0
+India,Uttar Pradesh,2014,44222.0
+India,Uttarakhand,2014,338530.0
+India,West Bengal,2014,270269.0
+India,Andaman and Nicobar,2015,31644.0
+India,Andhra Pradesh,2015,491517.0
+India,Arunachal Pradesh,2015,6515648.0
+India,Assam,2015,5642017.0
+India,Bihar,2015,513.0
+India,Chandigarh,2015,0.0
+India,Chhattisgarh,2015,667348.0
+India,Dadra and Nagar Haveli,2015,0.0
+India,Daman and Diu,2015,0.0
+India,Goa,2015,6106.0
+India,Gujarat,2015,0.0
+India,Haryana,2015,0.0
+India,Himachal Pradesh,2015,5164.0
+India,Jammu and Kashmir,2015,501.0
+India,Jharkhand,2015,40523.0
+India,Karnataka,2015,776898.0
+India,Kerala,2015,1583223.0
+India,Lakshadweep,2015,0.0
+India,Madhya Pradesh,2015,127726.0
+India,Maharashtra,2015,181945.0
+India,Manipur,2015,7772554.0
+India,Meghalaya,2015,8372509.0
+India,Mizoram,2015,10620500.0
+India,NCT of Delhi,2015,0.0
+India,Nagaland,2015,8785877.0
+India,Odisha,2015,1607371.0
+India,Puducherry,2015,1350.0
+India,Punjab,2015,599.0
+India,Rajasthan,2015,0.0
+India,Sikkim,2015,3199.0
+India,Tamil Nadu,2015,470255.0
+India,Telangana,2015,100184.0
+India,Tripura,2015,2083751.0
+India,Uttar Pradesh,2015,29251.0
+India,Uttarakhand,2015,448448.0
+India,West Bengal,2015,65268.0
+India,Andaman and Nicobar,2016,90255.0
+India,Andhra Pradesh,2016,1014936.0
+India,Arunachal Pradesh,2016,10259779.0
+India,Assam,2016,11091803.0
+India,Bihar,2016,2510.0
+India,Chandigarh,2016,0.0
+India,Chhattisgarh,2016,1145172.0
+India,Dadra and Nagar Haveli,2016,0.0
+India,Daman and Diu,2016,0.0
+India,Goa,2016,38866.0
+India,Gujarat,2016,0.0
+India,Haryana,2016,500.0
+India,Himachal Pradesh,2016,5605.0
+India,Jammu and Kashmir,2016,1887.0
+India,Jharkhand,2016,73733.0
+India,Karnataka,2016,1745186.0
+India,Kerala,2016,4158843.0
+India,Lakshadweep,2016,0.0
+India,Madhya Pradesh,2016,182154.0
+India,Maharashtra,2016,396852.0
+India,Manipur,2016,11721947.0
+India,Meghalaya,2016,10695368.0
+India,Mizoram,2016,16911644.0
+India,NCT of Delhi,2016,0.0
+India,Nagaland,2016,10972129.0
+India,Odisha,2016,3591862.0
+India,Puducherry,2016,13040.0
+India,Punjab,2016,371.0
+India,Rajasthan,2016,0.0
+India,Sikkim,2016,23366.0
+India,Tamil Nadu,2016,602028.0
+India,Telangana,2016,153960.0
+India,Tripura,2016,2738316.0
+India,Uttar Pradesh,2016,47639.0
+India,Uttarakhand,2016,502953.0
+India,West Bengal,2016,105889.0
+India,Andaman and Nicobar,2017,152027.0
+India,Andhra Pradesh,2017,1269665.0
+India,Arunachal Pradesh,2017,10166369.0
+India,Assam,2017,8138774.0
+India,Bihar,2017,15548.0
+India,Chandigarh,2017,0.0
+India,Chhattisgarh,2017,851233.0
+India,Dadra and Nagar Haveli,2017,0.0
+India,Daman and Diu,2017,0.0
+India,Goa,2017,29544.0
+India,Gujarat,2017,0.0
+India,Haryana,2017,6.0
+India,Himachal Pradesh,2017,43165.0
+India,Jammu and Kashmir,2017,44256.0
+India,Jharkhand,2017,136125.0
+India,Karnataka,2017,1617552.0
+India,Kerala,2017,5625800.0
+India,Lakshadweep,2017,0.0
+India,Madhya Pradesh,2017,125414.0
+India,Maharashtra,2017,345802.0
+India,Manipur,2017,10722640.0
+India,Meghalaya,2017,11814682.0
+India,Mizoram,2017,21654322.0
+India,NCT of Delhi,2017,0.0
+India,Nagaland,2017,11005191.0
+India,Odisha,2017,4284995.0
+India,Puducherry,2017,4364.0
+India,Punjab,2017,0.0
+India,Rajasthan,2017,0.0
+India,Sikkim,2017,30118.0
+India,Tamil Nadu,2017,707679.0
+India,Telangana,2017,137378.0
+India,Tripura,2017,8257707.0
+India,Uttar Pradesh,2017,19191.0
+India,Uttarakhand,2017,406339.0
+India,West Bengal,2017,198355.0
+India,Andaman and Nicobar,2018,60845.0
+India,Andhra Pradesh,2018,917920.0
+India,Arunachal Pradesh,2018,6020082.0
+India,Assam,2018,6534480.0
+India,Bihar,2018,4327.0
+India,Chandigarh,2018,0.0
+India,Chhattisgarh,2018,1198239.0
+India,Dadra and Nagar Haveli,2018,0.0
+India,Daman and Diu,2018,0.0
+India,Goa,2018,25679.0
+India,Gujarat,2018,142.0
+India,Haryana,2018,6.0
+India,Himachal Pradesh,2018,93738.0
+India,Jammu and Kashmir,2018,46166.0
+India,Jharkhand,2018,71123.0
+India,Karnataka,2018,1891055.0
+India,Kerala,2018,3638463.0
+India,Lakshadweep,2018,0.0
+India,Madhya Pradesh,2018,131135.0
+India,Maharashtra,2018,359818.0
+India,Manipur,2018,7742281.0
+India,Meghalaya,2018,7409386.0
+India,Mizoram,2018,12258088.0
+India,NCT of Delhi,2018,0.0
+India,Nagaland,2018,7720765.0
+India,Odisha,2018,4144448.0
+India,Puducherry,2018,4985.0
+India,Punjab,2018,3473.0
+India,Rajasthan,2018,0.0
+India,Sikkim,2018,32585.0
+India,Tamil Nadu,2018,889587.0
+India,Telangana,2018,175670.0
+India,Tripura,2018,3908220.0
+India,Uttar Pradesh,2018,31778.0
+India,Uttarakhand,2018,385144.0
+India,West Bengal,2018,118783.0
+India,Andaman and Nicobar,2019,98073.0
+India,Andhra Pradesh,2019,853376.0
+India,Arunachal Pradesh,2019,5056059.0
+India,Assam,2019,5182719.0
+India,Bihar,2019,1318.0
+India,Chandigarh,2019,0.0
+India,Chhattisgarh,2019,1075967.0
+India,Dadra and Nagar Haveli,2019,0.0
+India,Daman and Diu,2019,0.0
+India,Goa,2019,21267.0
+India,Gujarat,2019,111.0
+India,Haryana,2019,3061.0
+India,Himachal Pradesh,2019,87891.0
+India,Jammu and Kashmir,2019,15829.0
+India,Jharkhand,2019,73628.0
+India,Karnataka,2019,1312608.0
+India,Kerala,2019,4323642.0
+India,Lakshadweep,2019,0.0
+India,Madhya Pradesh,2019,45892.0
+India,Maharashtra,2019,460480.0
+India,Manipur,2019,7908037.0
+India,Meghalaya,2019,6859710.0
+India,Mizoram,2019,12053939.0
+India,NCT of Delhi,2019,0.0
+India,Nagaland,2019,6053606.0
+India,Odisha,2019,3383812.0
+India,Puducherry,2019,4505.0
+India,Punjab,2019,3040.0
+India,Rajasthan,2019,0.0
+India,Sikkim,2019,78772.0
+India,Tamil Nadu,2019,1002326.0
+India,Telangana,2019,267493.0
+India,Tripura,2019,5881772.0
+India,Uttar Pradesh,2019,4951.0
+India,Uttarakhand,2019,460222.0
+India,West Bengal,2019,132669.0
+India,Andaman and Nicobar,2020,544294.0
+India,Andhra Pradesh,2020,630132.0
+India,Arunachal Pradesh,2020,6654399.0
+India,Assam,2020,8235560.0
+India,Bihar,2020,6166.0
+India,Chandigarh,2020,0.0
+India,Chhattisgarh,2020,579163.0
+India,Dadra and Nagar Haveli,2020,0.0
+India,Daman and Diu,2020,0.0
+India,Goa,2020,30567.0
+India,Gujarat,2020,0.0
+India,Haryana,2020,881.0
+India,Himachal Pradesh,2020,34709.0
+India,Jammu and Kashmir,2020,25940.0
+India,Jharkhand,2020,89658.0
+India,Karnataka,2020,1417308.0
+India,Kerala,2020,4024499.0
+India,Lakshadweep,2020,0.0
+India,Madhya Pradesh,2020,163027.0
+India,Maharashtra,2020,307220.0
+India,Manipur,2020,8432500.0
+India,Meghalaya,2020,7012034.0
+India,Mizoram,2020,12411001.0
+India,NCT of Delhi,2020,0.0
+India,Nagaland,2020,8270262.0
+India,Odisha,2020,3878982.0
+India,Puducherry,2020,8620.0
+India,Punjab,2020,2791.0
+India,Rajasthan,2020,0.0
+India,Sikkim,2020,62572.0
+India,Tamil Nadu,2020,588825.0
+India,Telangana,2020,107090.0
+India,Tripura,2020,6396596.0
+India,Uttar Pradesh,2020,3091.0
+India,Uttarakhand,2020,592073.0
+India,West Bengal,2020,120900.0
